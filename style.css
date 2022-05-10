@@ -9,6 +9,9 @@
 }
 body {
   background-image: url(517069-computer-virus-removal-in-okc-aamcomp-computer-technologies.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 main {
   width: 100vw;
@@ -16,19 +19,33 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  padding-bottom: 160px;
 }
-p {
-  color: white;
+.paragrafo{
+  color: rgb(255, 255, 255);
   font-size: 30px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  
 }
 .container {
   display: flex;
   align-items: center;
   flex-direction: column;
   gap: 30px;
-  margin-bottom: 110px;
+  
+}
+.porcent{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+  z-index: 1;
+  text-align: center;
+  margin-top: 10px;
+  
 }
 
 .imagem {
@@ -77,25 +94,13 @@ p {
   background-color: var(--bar-color);
   animation-name: barra;
   animation-duration: 6s;
-  animation-iteration-count: linear;
-  animation-delay: 2s;
+  animation-iteration-count: forwards;
+  
 }
 
 @keyframes barra {
   0% {
     width: 0;
-  }
-
-  25% {
-    width: 25%;
-  }
-
-  50% {
-    width: 50%;
-  }
-
-  75% {
-    width: 75%;
   }
 
   100% {
