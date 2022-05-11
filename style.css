@@ -4,7 +4,6 @@
   box-sizing: border-box;
 }
 :root {
-  --counter: 0;
   --bar-color: rgb(83, 211, 32);
 }
 body {
