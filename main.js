@@ -2,7 +2,7 @@ var porcent = document.querySelector('.porcent');
 var paragrafo = document.querySelector('.paragrafo');
 var loading = document.querySelector('.loading');
 var count = 4;
-var load = setInterval(animate, 36);
+var load = setInterval(animate, 42);
 
 function animate(){
     if(count == 100){

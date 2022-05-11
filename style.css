@@ -27,6 +27,7 @@ main {
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+
   
 }
 .container {
@@ -34,7 +35,8 @@ main {
   align-items: center;
   flex-direction: column;
   gap: 30px;
-  
+  /* background-color: aqua; */
+  /* width: 600px; */
 }
 .porcent{
   color: rgb(255, 255, 255);
@@ -104,13 +106,13 @@ main {
     width: 100%;
   }
 }
-@media (max-width: 430px) {
+@media (max-width: 431px) {
 
   .barra {
     height: 100%;
     border-radius: inherit;
     background-color: var(--bar-color);
-    animation: barra 4.4s linear forwards;
+    animation: barra 4.1s linear forwards;
   }
  
 }
@@ -128,7 +130,7 @@ main {
     height: 100%;
     border-radius: inherit;
     background-color: var(--bar-color);
-    animation: barra 4.5s linear forwards;
+    animation: barra 4.1s linear forwards;
   }
  
   p {
