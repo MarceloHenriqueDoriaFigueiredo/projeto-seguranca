@@ -23,5 +23,6 @@
 # Tecnologias utilizadas:
 * HTML
 * CSS
+* JavaScript
 
 Resultado final: https://marcelohenriquedoriafigueiredo.github.io/projeto-seguranca/
