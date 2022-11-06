@@ -1,10 +1,38 @@
-# projeto-seguranca
- Projeto desenvolvido para demostrar uma simulação de um link malicioso roubando dados pessoais
- 
- # Sobre
- O projeto foi desenvolvido com o intuito de demostrar para os alunos que irão participar de uma palestra sobre noções de segurança da informação no Instituto Federal de Sergipe - Campus Propriá como hackers utilizam de links maliciosos para roubar dados pessoais de varios usuarios. Para demostrar essa situação de roubo de dados, foi criado um site que quando os alunos acessarem atráves do link receberam uma mensagem de que os dados foram roubados.
- 
- # Desenvolvido pelos alunos:
+<h1 align="center"> projeto-seguranca </h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+<p align="center">
+<h1>Desktop:</h1>
+  <img alt="projeto-seguranca" src=".github/desktop.png" width="100%">
+
+<h1>Mobile:</h1>
+ <img alt="projeto-seguranca" src=".github/mobile.png" width="30%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
+
+O projeto foi desenvolvido com o intuito de demostrar para os alunos que irão participar de uma palestra sobre noções de segurança da informação no Instituto Federal de Sergipe - Campus Propriá como hackers utilizam de links maliciosos para roubar dados pessoais de varios usuarios. Para demostrar essa situação de roubo de dados, foi criado um site que quando os alunos acessarem atráves do link receberam uma mensagem de que os dados foram roubados.
+
+## Desenvolvido pelos alunos:
  Marcelo Henrique Dória Figueiredo
  * Linkedin: https://www.linkedin.com/in/marcelo-henrique-d%C3%B3ria-figueiredo-018518187/
  * GitHub: https://github.com/MarceloHenriqueDoriaFigueiredo
@@ -13,16 +41,8 @@
  * Liinkedin: https://www.linkedin.com/in/marcos-da-silva-gomes-86439a22b/
  * Github: https://github.com/marcosdevg
 
+## :memo: Licença
 
-# Versão para Desktop:
-![image](https://user-images.githubusercontent.com/68343463/167401376-2b87dcb9-4b7f-4374-b047-9259e22c4404.png)
+Esse projeto está sob a licença MIT.
 
-# Versão para Mobile:
-![image](https://user-images.githubusercontent.com/68343463/167401780-cf73588a-9db9-4343-bc7d-8cc2e4477a5c.png)
-
-# Tecnologias utilizadas:
-* HTML
-* CSS
-* JavaScript
-
-Resultado final: https://marcelohenriquedoriafigueiredo.github.io/projeto-seguranca/
+---
